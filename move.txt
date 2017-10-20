@@ -1,0 +1,10 @@
+xboard
+protover 2
+new
+random
+level 40 5 0
+post
+hard
+time 30000
+otim 30000
+e2e3
